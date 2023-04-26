@@ -11,6 +11,7 @@ namespace PracticeProblems_4B
             UniqueueValues.UniqueueInfo();
             RectangleStarPattern.Startrectangle();
             Matrics.SumofMatric();
+            ReverseString.Reverse("Divya");
             Console.ReadLine();
         }
     }
