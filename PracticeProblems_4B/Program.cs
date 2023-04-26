@@ -7,8 +7,8 @@ namespace PracticeProblems_4B
         static void Main(string[] args)
         {
             Console.WriteLine("Hello to PracticeProblems-4B");
-            ConutDuplicatevalues.arrayInfo();
-            Console.ReadLine();
+            //ConutDuplicatevalues.arrayInfo();
+            UniqueueValues.UniqueueInfo();
         }
     }
 }
