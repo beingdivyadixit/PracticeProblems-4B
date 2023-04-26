@@ -10,6 +10,7 @@ namespace PracticeProblems_4B
             ConutDuplicatevalues.arrayInfo();
             UniqueueValues.UniqueueInfo();
             RectangleStarPattern.Startrectangle();
+            Matrics.SumofMatric();
             Console.ReadLine();
         }
     }
